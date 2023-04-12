@@ -37,7 +37,7 @@ public class SanPham {
     }
     
     public void Xuat(){
-        System.out.println("Xuat: " +toString());
+        System.out.println("Xuat: ");
     }
     
 }
