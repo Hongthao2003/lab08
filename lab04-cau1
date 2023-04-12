@@ -1,5 +1,3 @@
-package LAB4_BAI1;
-
 import java.util.Scanner;
 
 public class SanPham {
@@ -23,7 +21,7 @@ public class SanPham {
     }
     
     public double ThueNhapKhau(){
-        return this.donGia*0.1;
+        return this.donGia*(10/100);
     }
     
     public void Nhap(){
