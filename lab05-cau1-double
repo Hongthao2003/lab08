@@ -1,12 +1,12 @@
 import java.util.ArrayList;
 
-public class Double {
+public class double {
     public float x;
     
-    public Double(){
+    public double(){
      }
      
-    public Double(float x){
+    public double(float x){
         this.x = x;
     }
     
